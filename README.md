@@ -92,3 +92,21 @@ Group By Region
 Select Product From [dbo].[Salesdata Project1]
  Group by Product
  Having SUM( CASE WHEN Orderdate >='2024-01-01' AND Orderdate < '2024-04-01' THEN 1 ELSE O END )
+
+
+
+# PowerBi
+
+![image](https://github.com/user-attachments/assets/4761d71e-ca7b-4a8f-bca8-6a6bf48554f4)
+
+
+# Project Summary
+
+    In this project, I used sales data to conduct a comprehensive analysis and identify key performance indicators, including:
+
+Top-Selling Products: Determining which products generated the highest revenue and which products contributed the most to overall sales volume.
+
+Regional Performance: Assessing sales performance across different regions to identify high-performing and underperforming areas.
+
+Monthly Sales Trends: Analyzing sales by month to understand seasonal trends and identify any fluctuations in demand over the year.
+
