@@ -97,7 +97,8 @@ Select Product From [dbo].[Salesdata Project1]
 
 # PowerBi
 
-![image](https://github.com/user-attachments/assets/5a3fecad-8671-4061-8f60-ccd51165c241)
+![image](https://github.com/user-attachments/assets/a3190953-a94b-4f65-84f7-f2ec5cb2263c)
+
 
 
 
