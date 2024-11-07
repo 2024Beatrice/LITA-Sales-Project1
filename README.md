@@ -7,7 +7,7 @@ This project analyzes the sales performance of a retail store using Excel, SQL a
 The primary source of data used used here is an Excel data file.
 
 # Tools and Technology Used
-Microsoft Excel: Download here
+Microsoft Excel: 
 
 Data Cleaning
 Data Visualisation
@@ -95,20 +95,29 @@ Select Product From [dbo].[Salesdata Project1]
 
 
 
-# PowerBi
+## 3. PowerBi
+   - Developed an interactive dashboard to visualize insights from data:
+- sales Overview  displays total revenue, average sales and monthly trends.
+- Top products highlights top seeling products and category perfromance
+- Regional breakdown shows sales by region al contribution to total sales 
 
-![image](https://github.com/user-attachments/assets/a3190953-a94b-4f65-84f7-f2ec5cb2263c)
+
+![IMG_1862](https://github.com/user-attachments/assets/876493f7-a041-4521-8689-20ceaa979eb4)
 
 
 
 
-# Project Summary
+
+## Project Summary
 
     In this project, I used sales data to conduct a comprehensive analysis and identify key performance indicators, including:
 
-Top-Selling Products: Determining which products generated the highest revenue and which products contributed the most to overall sales volume.
+- Top-Selling Products: Determining which products generated the highest revenue and which products contributed the most to overall sales volume.
 
-Regional Performance: Assessing sales performance across different regions to identify high-performing and underperforming areas.
+ - Regional Performance: Assessing sales performance across different regions to identify high-performing and underperforming areas.
 
-Monthly Sales Trends: Analyzing sales by month to understand seasonal trends and identify any fluctuations in demand over the year.
+- Monthly Sales Trends: Analyzing sales by month to understand seasonal trends and identify any fluctuations in demand over the year.
+
+- The line chart shows strong monthly growth in February 2024
+- Top selling products includes Shoes and shirt which represents a combined 48% of total sales 
 
